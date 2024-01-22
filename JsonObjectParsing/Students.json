@@ -1,0 +1,61 @@
+[{
+	"id" :3,
+	"name":"Muhammad Haseeb",
+	"department":{
+		"name":"cs"
+	},
+	"domicile":"Shikarpur",
+	"course":{
+		"name":["Java","Eds","Mapd","Dsa"]
+	}
+	
+}
+,
+{
+	"id" :39,
+	"name":"Muhammad Hanan",
+	"department":{
+		"name":"cs"
+	},
+	"domicile":"Dadu",
+	"course":{
+		"name":["Java","Cp","Caap","Mit"]
+	}
+}
+,
+{
+	"id" :41,
+	"name":"Izhar",
+	"department":{
+		"name":"SW"
+	},
+	"domicile":"Thatta",
+	"course":{
+		"name":["Python","Ml","AI","Data Science"]
+	}
+}
+,
+{
+	"id" :19,
+	"name":"Touqeer",
+	"department":{
+		"name":"SW"
+	},
+	"domicile":"Khairpur",
+	"course":{
+		"name":["Java","Se","Ccn","Cf"]
+	}
+}
+,
+{
+	"id" :73,
+	"name":"Mohit",
+	"department":{
+		"name":"cs"
+	},
+	"domicile":"Thar",
+	"course":{
+		"name":["Cg","Eds","Os","Dsa"]
+	}
+}
+]
